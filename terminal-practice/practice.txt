@@ -1,0 +1,2 @@
+Line 1: Exploring command line basics.
+Line 2: Appending safe data without overwriting.
